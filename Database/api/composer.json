@@ -1,0 +1,7 @@
+{
+	"require":
+	{
+		"slim/slim" : "^3.0",
+		"php-activerecord/php-activerecord" : "dev-master"
+	}
+}

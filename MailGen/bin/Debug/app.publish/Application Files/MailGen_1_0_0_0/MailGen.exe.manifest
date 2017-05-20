@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MailGen.exe" version="1.0.0.0" publicKeyToken="45418025ffb96ee6" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MailGen" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MailGen.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MailGen.exe" size="389632">
+      <assemblyIdentity name="MailGen" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3H3DzyxVCgTcNXMzCxdeWYbAYGxgHTmzFJDDOWstads=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.dll" size="337920">
+      <assemblyIdentity name="MetroFramework" version="1.3.5.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WTJ50fwDpmij8W8el79qqHXTTzqxueeSH2HZgNnfYDY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.Design.dll" size="16896">
+      <assemblyIdentity name="MetroFramework.Design" version="1.3.5.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VxheCmLVSF2UfKbocrtPRy+PUdqMFpR4JOhBn5Ns+cQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.Fonts.dll" size="672256">
+      <assemblyIdentity name="MetroFramework.Fonts" version="1.3.5.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Pf8ImpJNJsQp6lw1Kvn6tC3hXkFVF8M0xcUo1aGFUZ4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="522752">
+      <assemblyIdentity name="Newtonsoft.Json" version="8.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>347C4CRYKd3sW3nxkYw646P6VApaDjxBDitu8L68eSc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RestSharp.dll" size="168960">
+      <assemblyIdentity name="RestSharp" version="105.2.3.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CnTXXfvyGTOQlpAI7A9uzrKciyA2PgUZLJWbD6wS8jE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MailGen.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ARROKH\Arrokhs" issuerKeyHash="219b4352bdf35d5da699a0b5dcf8d1848f83e3a8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>YnhWFGrbxPoj9eePA4Kayh57f/tvLQSMctCVpNLFM9g=</DigestValue></Reference></SignedInfo><SignatureValue>BYgnvCTItlUdNDI3EfjKeLdQg6X2Y/hablMN5MF0wI8cxIM+hMjTLNS8Sw7EkWZSjnibEEM9A7kUNptZPnYAXoQ2xJJWAtW+XghL2Uf6vcHhE7OWodUGhY78/w5NTYZmP4XAbs0G+qSf1DOGx2TXTVzbYnUGbQElHDNFK8nOzqA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>x6UjU+I7AlT2yNXuYo53WDdCh6jTAeUGvEOgXbTP9NOuPmItiI0BhlIszR2ofMxbFubJgEcFvLa/pHLpFRrpqmRVpIUo6JQhrHMv5TKJK3OvTrccGTKj6V70JSP2Qema4yEf4Dvd235pocWDsrkGRuwNxSxkO/bJCJ79PVckXo0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d833c5d2a495d0728c042d6ffb7f7b1eca9a82038fe7f523fac4db6a14567862" Description="" Url=""><as:assemblyIdentity name="MailGen.exe" version="1.0.0.0" publicKeyToken="45418025ffb96ee6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ARROKH\Arrokhs</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>BLJOtwjmHdEtUmt7YRi+lAcZcESm5nJ+HgwHY3dJ6YI=</DigestValue></Reference></SignedInfo><SignatureValue>g/09wqZtrxtEix9FRPqqejjiKUwA8Ogr/o8OjgMo5q2nhVttppBxPXr8GRmh7efiKIRTQi9iM0F4tvJWfM4NQd0WJwXT9SUEBGvQ87e+V0EO3DyWTHALbXfQOVY3jf4KsKQ93tGF+pq5gPw+n5Q5adOiHM79xiutqDyAs3/j9lg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>x6UjU+I7AlT2yNXuYo53WDdCh6jTAeUGvEOgXbTP9NOuPmItiI0BhlIszR2ofMxbFubJgEcFvLa/pHLpFRrpqmRVpIUo6JQhrHMv5TKJK3OvTrccGTKj6V70JSP2Qema4yEf4Dvd235pocWDsrkGRuwNxSxkO/bJCJ79PVckXo0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQTClUBA5y7IZFO+tMOthexzANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAQQBSAFIATwBLAEgAXABBAHIAcgBvAGsAaABzMB4XDTE2MDUwNDAyMTkyOFoXDTE3MDUwNDA4MTkyOFowJzElMCMGA1UEAx4cAEEAUgBSAE8ASwBIAFwAQQByAHIAbwBrAGgAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAx6UjU+I7AlT2yNXuYo53WDdCh6jTAeUGvEOgXbTP9NOuPmItiI0BhlIszR2ofMxbFubJgEcFvLa/pHLpFRrpqmRVpIUo6JQhrHMv5TKJK3OvTrccGTKj6V70JSP2Qema4yEf4Dvd235pocWDsrkGRuwNxSxkO/bJCJ79PVckXo0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQB72nkMjdBuHFQtVkbNpQVKfsOqxF7jgj9Fcuh31G7GzlVgEPSYvBc0WTo6MQBwPdDTy4Ks7GXaQprOeUdSMWo0VMBCNVPzClIWxiGtHLJdsIvFU6m39iA/zeWeJlY+s7wQ+Ub0N+xfPwRo84zv4Z5gnIwudhHl25ujcFbx2AXO8w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

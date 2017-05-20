@@ -1,0 +1,41 @@
+H:\MailGen 2\MailGen\obj\Debug\MailGen3.vbproj.ResolveComReference.cache
+H:\MailGen 2\MailGen\obj\Debug\MailGen.UserForm.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen.Home.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen.InvitationMailOne.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen.InvitationMailTwo.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen.Resources.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen3.vbproj.GenerateResource.Cache
+H:\MailGen 2\MailGen\obj\Debug\MailGen.exe
+H:\MailGen 2\MailGen\obj\Debug\MailGen.xml
+H:\MailGen 2\MailGen\obj\Debug\MailGen.pdb
+H:\MailGen 2\MailGen\bin\Debug\MailGen.exe.config
+H:\MailGen 2\MailGen\bin\Debug\MailGen.exe
+H:\MailGen 2\MailGen\bin\Debug\MailGen.pdb
+H:\MailGen 2\MailGen\bin\Debug\MailGen.xml
+H:\MailGen 2\MailGen\bin\Debug\Newtonsoft.Json.dll
+H:\MailGen 2\MailGen\bin\Debug\RestSharp.dll
+H:\MailGen 2\MailGen\bin\Debug\Newtonsoft.Json.xml
+H:\MailGen 2\MailGen\bin\Debug\RestSharp.xml
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\MailGen.exe.config
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\MailGen.exe
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\MailGen.pdb
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\MailGen.xml
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\RestSharp.dll
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\RestSharp.xml
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen3.vbproj.ResolveComReference.cache
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.UserForm.resources
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.Home.resources
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.InvitationMailOne.resources
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.InvitationMailTwo.resources
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.Resources.resources
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen3.vbproj.GenerateResource.Cache
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.exe
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.xml
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.pdb
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\MailGen.exe.manifest
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\bin\Debug\MailGen.application
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen3.vbprojResolveAssemblyReference.cache
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.exe.manifest
+C:\Users\Arrokhs\Documents\Project Lecture\Pemrograman Visual\Tugas Besar\Final\MailGen 2\MailGen\obj\Debug\MailGen.application

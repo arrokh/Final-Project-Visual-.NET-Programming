@@ -1,0 +1,48 @@
+E:\MailGen\MailGen\bin\Debug\MailGen.exe.config
+E:\MailGen\MailGen\bin\Debug\MailGen.exe
+E:\MailGen\MailGen\bin\Debug\MailGen.pdb
+E:\MailGen\MailGen\bin\Debug\MailGen.xml
+E:\MailGen\MailGen\bin\Debug\MetroFramework.Design.dll
+E:\MailGen\MailGen\bin\Debug\MetroFramework.dll
+E:\MailGen\MailGen\bin\Debug\MetroFramework.Fonts.dll
+E:\MailGen\MailGen\obj\Debug\MailGen.vbprojResolveAssemblyReference.cache
+E:\MailGen\MailGen\obj\Debug\MailGen.Resources.resources
+E:\MailGen\MailGen\obj\Debug\MailGen.vbproj.GenerateResource.Cache
+E:\MailGen\MailGen\obj\Debug\MailGen.exe
+E:\MailGen\MailGen\obj\Debug\MailGen.xml
+E:\MailGen\MailGen\obj\Debug\MailGen.pdb
+E:\MailGen\MailGen\obj\Debug\MailGen.InvitationMailOne.resources
+E:\MailGen\MailGen\obj\Debug\MailGen.InvitationMailTwo.resources
+E:\MailGen\MailGen\obj\Debug\MailGen.vbproj.ResolveComReference.cache
+E:\MailGen\MailGen\obj\Debug\MailGen.Home.resources
+E:\MailGen 2\MailGen\bin\Debug\MailGen.exe.config
+E:\MailGen 2\MailGen\obj\Debug\MailGen.vbproj.ResolveComReference.cache
+E:\MailGen 2\MailGen\obj\Debug\MailGen.exe
+E:\MailGen 2\MailGen\obj\Debug\MailGen.xml
+E:\MailGen 2\MailGen\obj\Debug\MailGen.pdb
+E:\MailGen 2\MailGen\obj\Debug\MailGen.vbprojResolveAssemblyReference.cache
+E:\MailGen 2\MailGen\obj\Debug\MailGen.Home.resources
+E:\MailGen 2\MailGen\obj\Debug\MailGen.InvitationMailOne.resources
+E:\MailGen 2\MailGen\obj\Debug\MailGen.InvitationMailTwo.resources
+E:\MailGen 2\MailGen\obj\Debug\MailGen.Resources.resources
+E:\MailGen 2\MailGen\obj\Debug\MailGen.vbproj.GenerateResource.Cache
+E:\MailGen 2\MailGen\bin\Debug\MailGen.exe
+E:\MailGen 2\MailGen\bin\Debug\MetroFramework.Design.dll
+E:\MailGen 2\MailGen\bin\Debug\MetroFramework.dll
+E:\MailGen 2\MailGen\bin\Debug\MetroFramework.Fonts.dll
+E:\MailGen 2\MailGen\bin\Debug\MailGen.pdb
+E:\MailGen 2\MailGen\bin\Debug\MailGen.xml
+H:\MailGen 2\MailGen\bin\Debug\MailGen.exe.config
+H:\MailGen 2\MailGen\obj\Debug\MailGen.vbproj.ResolveComReference.cache
+H:\MailGen 2\MailGen\obj\Debug\MailGen.exe
+H:\MailGen 2\MailGen\obj\Debug\MailGen.xml
+H:\MailGen 2\MailGen\obj\Debug\MailGen.pdb
+H:\MailGen 2\MailGen\bin\Debug\MailGen.exe
+H:\MailGen 2\MailGen\bin\Debug\MailGen.pdb
+H:\MailGen 2\MailGen\bin\Debug\MailGen.xml
+H:\MailGen 2\MailGen\obj\Debug\MailGen.vbprojResolveAssemblyReference.cache
+H:\MailGen 2\MailGen\obj\Debug\MailGen.Home.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen.InvitationMailOne.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen.InvitationMailTwo.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen.Resources.resources
+H:\MailGen 2\MailGen\obj\Debug\MailGen.vbproj.GenerateResource.Cache
